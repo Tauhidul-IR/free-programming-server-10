@@ -1,11 +1,11 @@
 [
     {
-        "_id": "1",
+        "id": "1",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "01",
+        "categoryid": "01",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -22,12 +22,12 @@
         "details": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured, object-oriented and functional programming."
     },
     {
-        "_id": "2",
+        "id": "2",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "01",
+        "categoryid": "01",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -44,12 +44,12 @@
         "details": "Java is a powerful general-purpose programming language. It is used to develop desktop and mobile applications, big data processing, embedded systems, and so on. According to Oracle, the company that owns Java, Java runs on 3 billion devices worldwide, which makes Java one of the most popular programming languages."
     },
     {
-        "_id": "3",
+        "id": "3",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "01",
+        "categoryid": "01",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -66,12 +66,12 @@
         "details": "JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries."
     },
     {
-        "_id": "4",
+        "id": "4",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "01",
+        "categoryid": "01",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -88,12 +88,12 @@
         "details": "C is a general-purpose computer programming language. It was created in the 1970s by Dennis Ritchie, and remains very widely used and influential. By design, C's features cleanly reflect the capabilities of the targeted CPUs. "
     },
     {
-        "_id": "5",
+        "id": "5",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "01",
+        "categoryid": "01",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
@@ -110,12 +110,12 @@
         "details": "C++ is a powerful general-purpose programming language. It can be used to develop operating systems, browsers, games, and so on. C++ supports different ways of programming like procedural, object-oriented, functional, and so on. This makes C++ powerful as well as flexible."
     },
     {
-        "_id": "6",
+        "id": "6",
         "others_info": {
             "is_todays_pick": false,
             "is_trending": true
         },
-        "category_id": "01",
+        "categoryid": "01",
         "rating": {
             "number": 4.5,
             "badge": "Excellent"
